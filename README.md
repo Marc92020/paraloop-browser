@@ -1,9 +1,11 @@
 # paraloop-browser
 offline/app version of paraloop scratch web browser
+## wait
+the current version of paraloop offline is out of date with this app. a new version should be coming out soon
 ## documentation
 this documentation is important for installing and running the paraloop offline browser
 ### installation
-there are currently only releases for windows and mobile + chromeOS. macOS and linux support coming soon.
+sadly, there is no linux support yet, but linux support will be coming soon
 notice: if your installing the windows version, your going to need 172MB to install
 1. go to releases
 2. download the 1.0.0 file for your device
